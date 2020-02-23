@@ -1,0 +1,5 @@
+/Users/vincentzhang/Projects/TicTacToe/TicTacToe/bin/Debug/TicTacToe.exe
+/Users/vincentzhang/Projects/TicTacToe/TicTacToe/bin/Debug/TicTacToe.pdb
+/Users/vincentzhang/Projects/TicTacToe/TicTacToe/obj/Debug/TicTacToe.csprojAssemblyReference.cache
+/Users/vincentzhang/Projects/TicTacToe/TicTacToe/obj/Debug/TicTacToe.exe
+/Users/vincentzhang/Projects/TicTacToe/TicTacToe/obj/Debug/TicTacToe.pdb
